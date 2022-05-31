@@ -14,7 +14,7 @@ $color-background : #061C30;
 $color-text       : #caddef;
 $color-link       : #caddef;
 $color-link-hover : #47bec7;
-$color-maverick   : #47bec7;
+$color-maverick   : #CCCCCC;
 $color-tagline    : #CCCCCC;
 
 // Breakpoints
@@ -118,7 +118,7 @@ body.page-template-page-fullsingle-split {
         margin-bottom: auto;
 
       @media (max-width: $bp-smallish ) {
-        padding: 60px;
+        padding: 50px;
       }
 
       @media (max-width: $bp-tablet ) {
@@ -141,7 +141,7 @@ body.page-template-page-fullsingle-split {
 
 .split-intro {
   font-weight: 600;
-  font-size: 64px;
+  font-size: 48px;
   line-height: 80px;
   letter-spacing: -2px;
 
@@ -181,6 +181,7 @@ body.page-template-page-fullsingle-split {
     color: $color-text;
     margin-bottom: 20px;
     line-height: inherit;
+    font-size: 0.8em;
   }
 
   a {
@@ -281,6 +282,7 @@ body.page-template-page-fullsingle-split {
     margin-bottom: 20px;
     list-style-position: outside;
     line-height: inherit;
+    font-size: 0.8em;
   }
 
   li {
