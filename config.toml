@@ -33,7 +33,7 @@ copyright = "&copy;2022 Katie Thompson"
     [params.visual.image]
       enable = true
       file = "images/katie-right.jpg"
-      position = "center center"
+      position = "top center"
 
     # Video
     [params.visual.video]
