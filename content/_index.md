@@ -1,6 +1,6 @@
 +++
-title = "Jenny Jones"
-tagline = "Designer. Stylist. Nomad."
+title = "Katie Thompson"
+tagline = "Counsellor."
 +++
 
 # Welcome
@@ -46,13 +46,16 @@ I can be contacted by email or telephone. If I am not available, please leave a 
 
 If you are distressed and need urgent support, please call Samaritans on 116 123 or NHS 111.
 
-eMail:
+Email:
 contact@parkgrovecounselling.co.uk
+
 Telephone:
-07735 555 423
+[07735 555 423](tel:07735-555-423)
+
 Facebook:
-Parkgrove-Counselling
+[Parkgrove-Counselling](https://www.facebook.com/pg/Parkgrove-Counselling-103327447780908/services)
+
 Twitter:
-@ParkgroveCouns1
+[@ParkgroveCouns1](https://twitter.com/ParkgroveCouns1)
 
 
