@@ -22,6 +22,10 @@ I can help with a wide range of issues including self-harm, abuse, anxiety, bere
 - Certificate in Counselling Skills, 2015
 - Bachelor of Education (Hons), 1994
 
+[![Katie's British Association for Counselling and Psychotherapy page](images/BACP-Logo.png "BACP Logo")](https://www.bacp.co.uk/profile/70a6189d-5390-e711-80e8-3863bb349ac0/Therapist)
+[![Katie's Psychology Today page](images/psychologytoday.png "Psychology Today Logo")](https://www.psychologytoday.com/gb/counselling/katie-thompson-glasgow-sct/490057)
+
+
 # Fees & Privacy
 
 Face-to-face session - from £45 (50 mins).
