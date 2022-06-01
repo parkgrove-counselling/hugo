@@ -10,7 +10,7 @@
   <div class="fs-split">
 
     <!-- Image -->
-    {{ if .Site.Params.visual.image.enable }}
+    {{ if or (.Site.Params.visual.image.small.enable) (.Site.Params.visual.image.large.enable)  }}
 
       <div class="split-image">
 

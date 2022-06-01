@@ -13,3 +13,8 @@ To run hugo on local network:
 ```shell
 hugo server --bind=0.0.0.0 --baseURL=http://192.168.1.84:1313 -D
 ```
+
+convert image size
+```shell
+convert katie-left-orig.jpg  -resize 800x533 katie-left.jpg
+```

@@ -30,10 +30,18 @@
 {{ end }}
 
 <!-- Image Styles -->
-{{ if .Site.Params.visual.image.enable }}
+{{ if or (.Site.Params.visual.image.small.enable) (.Site.Params.visual.image.large.enable) }}
   <style>
-  {{ if .Site.Params.visual.image.file }}
-    .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.file | absURL }}"); background-position: {{ if .Site.Params.visual.image.position }}{{ .Site.Params.visual.image.position }}{{ else }}center center{{ end }}; }
+
+  {{ if .Site.Params.visual.image.small.file }}
+    @media (max-width: 800px ) {
+      .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.small.file | absURL }}"); background-position: {{ if .Site.Params.visual.image.small.position }}{{ .Site.Params.visual.image.small.position }}{{ else }}center center{{ end }}; }
+    }
+  {{ end }}
+  {{ if .Site.Params.visual.image.large.file }}
+    @media (min-width: 800px ) {
+      .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.large.file | absURL }}"); background-position: {{ if .Site.Params.visual.image.large.position }}{{ .Site.Params.visual.image.large.position }}{{ else }}center center{{ end }}; }
+    }
   {{ end }}
   </style>
 {{ end }}
