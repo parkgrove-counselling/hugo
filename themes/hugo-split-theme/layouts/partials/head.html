@@ -22,29 +22,14 @@
 {{ with .Site.Params.favicon }}<link rel="icon" href="{{ . | absURL }}" />{{ end }}
 
 <!-- Styles -->
-{{ $css := resources.GetMatch "sass/split.scss" | resources.ToCSS}}
+{{ $contentCss := resources.GetMatch "sass/01-content.scss.tpl" | resources.ExecuteAsTemplate "sass/01-content.scss" "nothing" | resources.ToCSS }}
+{{ $css := resources.GetMatch "sass/split.scss.tpl" | resources.ExecuteAsTemplate "sass/split.scss" $contentCss | resources.ToCSS}}
 <link rel="stylesheet" href="{{$css.Permalink}}" type="text/css" media="screen" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 {{ if .Site.Params.custom.css.enable }}
 <link rel="stylesheet" href="{{ "css/style.css" | absURL }}" type="text/css" media="screen" />
 {{ end }}
 
-<!-- Image Styles -->
-{{ if or (.Site.Params.visual.image.small.enable) (.Site.Params.visual.image.large.enable) }}
-  <style>
-
-  {{ if .Site.Params.visual.image.small.file }}
-    @media (max-width: 800px ) {
-      .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.small.file | absURL }}"); background-position: {{ if .Site.Params.visual.image.small.position }}{{ .Site.Params.visual.image.small.position }}{{ else }}center center{{ end }}; }
-    }
-  {{ end }}
-  {{ if .Site.Params.visual.image.large.file }}
-    @media (min-width: 800px ) {
-      .fs-split .split-image { background-image: url("{{ .Site.Params.visual.image.large.file | absURL }}"); background-position: {{ if .Site.Params.visual.image.large.position }}{{ .Site.Params.visual.image.large.position }}{{ else }}center center{{ end }}; }
-    }
-  {{ end }}
-  </style>
-{{ end }}
 
 <!-- Google Analytics -->
 {{ if and (.Site.GoogleAnalytics) (not (in (printf "%#v" .Site.BaseURL) "localhost")) }}

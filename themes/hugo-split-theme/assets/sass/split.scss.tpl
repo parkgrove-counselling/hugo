@@ -10,4 +10,4 @@ Description: Split is a centrally-divided layout for a professional online prese
 @import "00-reset";
 
 /* -- Content -- */
-@import "01-content";
+{{ .Content }}

@@ -92,6 +92,15 @@ body.page-template-page-fullsingle-split {
       width: 100%;
     }
 
+    @media (max-width: $bp-tablet ) {
+      background-image: url("{{ site.Params.visual.image.small.file | absURL }}");
+      background-position: top center;
+    }
+    @media (min-width: $bp-tablet ) {
+      background-image: url("{{ site.Params.visual.image.large.file | absURL }}");
+      background-position: top center;
+    }
+
   }
 
   //-------------------------------------------------------------------------------
@@ -388,6 +397,7 @@ body.page-template-page-fullsingle-split {
   p {
     font-size: 12px;
     line-height: 14px;
+    text-align: center;
 
     a {
       color: $color-text;
@@ -395,6 +405,13 @@ body.page-template-page-fullsingle-split {
 
   }
 
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 20px;
+      width: 20%;
+  }
 }
 
 //-------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://www.parkgrovecounselling.co.uk/v3-hugo-split-theme"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Parkgrove Counselling"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 

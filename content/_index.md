@@ -61,5 +61,3 @@ Facebook:
 
 Twitter:
 [@ParkgroveCouns1](https://twitter.com/ParkgroveCouns1)
-
-
