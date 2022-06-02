@@ -1,6 +1,6 @@
 +++
 title = "Katie Thompson"
-tagline = "Therapist"
+tagline = "Counsellor"
 +++
 
 # Welcome
