@@ -131,7 +131,7 @@ body.page-template-page-fullsingle-split {
       }
 
       @media (max-width: $bp-tablet ) {
-        padding: 40px;
+        padding: 37px;
       }
 
     }
@@ -314,7 +314,6 @@ body.page-template-page-fullsingle-split {
   }
 
   dl dt {
-    margin-bottom: 10px;
     font-weight: bold;
   }
 
