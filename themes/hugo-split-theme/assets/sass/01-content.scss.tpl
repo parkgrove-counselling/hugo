@@ -317,8 +317,9 @@ body.page-template-page-fullsingle-split {
     font-weight: bold;
   }
 
-  dl dd {
+  dl dd a {
     margin-bottom: 10px;
+    font-size: 14px;
   }
 
   img {
