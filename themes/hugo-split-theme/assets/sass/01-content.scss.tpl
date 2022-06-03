@@ -11,8 +11,8 @@
 
 // Colors
 $color-background : #061C30;
-$color-text       : #caddef;
-$color-link       : #caddef;
+$color-text       : #fdfdfd;
+$color-link       : #fdfdfd;
 $color-link-hover : #47bec7;
 $color-maverick   : #CCCCCC;
 $color-tagline    : #CCCCCC;
