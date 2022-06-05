@@ -62,10 +62,6 @@ body.page-template-page-fullsingle-split {
 
 }
 
-figure.qualification-icon {
-  display: inline;
-}
-
 //-------------------------------------------------------------------------------
 // Sections and Columns
 //-------------------------------------------------------------------------------
