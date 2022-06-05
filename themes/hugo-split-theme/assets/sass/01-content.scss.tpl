@@ -178,6 +178,10 @@ body.page-template-page-fullsingle-split {
   padding: 40px 0 20px 0;
   font-family: 'Lora', serif;
 
+  .qualification-icon {
+    display: inline;
+  }
+
   @media (max-width: $bp-smallish ) {
     padding: 30px 0 10px 0;
   }
