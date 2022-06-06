@@ -22,9 +22,9 @@ I can help with a wide range of issues including self-harm, abuse, anxiety, bere
 - Certificate in Counselling Skills, 2015
 - Bachelor of Education (Hons), 1994
 
-{{< figure class="qualification-icon" height="66" src="images/BACP-Logo.png" link="https://www.bacp.co.uk/profile/70a6189d-5390-e711-80e8-3863bb349ac0/Therapist" alt="Katie's British Association for Counselling and Psychotherapy page" >}}
+{{< figure class="qualification-icon" height="66" width="147" src="images/BACP-Logo.png" link="https://www.bacp.co.uk/profile/70a6189d-5390-e711-80e8-3863bb349ac0/Therapist" alt="Katie's British Association for Counselling and Psychotherapy page" >}}
 
-{{< figure class="qualification-icon" height="66" src="images/psychologytoday.png" link="https://www.psychologytoday.com/gb/counselling/katie-thompson-glasgow-sct/490057" alt="Katie's Psychology Today page" >}}
+{{< figure class="qualification-icon" height="66" width="205" src="images/psychologytoday.png" link="https://www.psychologytoday.com/gb/counselling/katie-thompson-glasgow-sct/490057" alt="Katie's Psychology Today page" >}}
 
 # Fees & Privacy
 
