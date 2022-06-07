@@ -1,106 +1,41 @@
-# Site settings
-baseURL = "https://eclectic-capybara-5e75c2.netlify.app"
-languageCode = "en-US"
-title = "Parkgrove Counselling"
-theme = "hugo-split-theme"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+title = "Notre-Dame de Paris"
+baseURL = "https://gohugo-theme-ananke.pages.dev"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke-master"
+resourceDir = "../resources"
 
-# Local preview mode
-relativeURLs = true
-uglyURLs = true
-
-# Enter your tracking code to enable Google Analytics
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
+enableRobotsTXT = true
 
-# Copyright
-copyright = "&copy;2022 Katie Thompson"
+[languages]
+  [languages.en]
+    title = "Ananke"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.fr]
+    title = "Ananke Fr"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
 
-  # Metadata for search engines and social sharing
-  author = "Katie Thompson"
-  description = "Katie Thompson a safe and confidential space where you can talk about the issues that are affecting you."
-  shareImage = "images/pg-tree.jpg"
-  twitterHandle = "ParkgroveCouns1"
-
-  # Favicon
-  favicon = "favicon.ico"
-
-  # Section - Visual
-  [params.visual]
-
-    # Image
-    [params.visual.image.small]
-      enable = true
-      file = "images/katie-left.jpg"
-      position = "top center"
-
-    [params.visual.image.large]
-      enable = true
-      file = "images/katie-right.jpg"
-      position = "top center"
-
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
-
-  # Links
-  #
-  # Links List #1
-#  [[params.links]]
-#    [params.links.list1]
-#      heading = "Connect"
-#
-#      [[params.links.list1.link]]
-#        text = "Blog"
-#        url = "#"
-#
-#      [[params.links.list1.link]]
-#        text = "Email"
-#        url = "#"
-#
-#      [[params.links.list1.link]]
-#        text = "Newsletter"
-#        url = "#"
-#
-#  # Links List #2
-#  [[params.links]]
-#    [params.links.list2]
-#      heading = "Social"
-#
-#      [[params.links.list2.link]]
-#        text = "Twitter"
-#        url = "#"
-#
-#      [[params.links.list2.link]]
-#        text = "Instagram"
-#        url = "#"
-#
-#      [[params.links.list2.link]]
-#        text = "Dribbble"
-#        url = "#"
-#
-#  # Links List #3
-#  [[params.links]]
-#    [params.links.list3]
-#      heading = "Network"
-#
-#      [[params.links.list3.link]]
-#        text = "Link One"
-#        url = "#"
-#
-#      [[params.links.list3.link]]
-#        text = "Link Two"
-#        url = "#"
-#
-#      [[params.links.list3.link]]
-#        text = "Link Three"
-#        url = "#"
-
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
