@@ -414,7 +414,6 @@ body.page-template-page-fullsingle-split {
       margin-left: auto;
       margin-right: auto;
       margin-bottom: 20px;
-      width: 20%;
   }
 }
 
