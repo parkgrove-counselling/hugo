@@ -26,6 +26,8 @@ I can help with a wide range of issues including self-harm, abuse, anxiety, bere
 
 {{< figure class="qualification-icon" height="66" width="205" src="images/psychologytoday.png" link="https://www.psychologytoday.com/gb/counselling/katie-thompson-glasgow-sct/490057" alt="Katie's Psychology Today page" >}}
 
+&nbsp;
+
 # Fees & Privacy
 
 Face-to-face session - from £45 (50 mins).
