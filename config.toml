@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+title = "Parkgrove Counselling"
+baseURL = "https://ananke--eclectic-capybara-5e75c2.netlify.app"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke-master"
 resourceDir = "../resources"
