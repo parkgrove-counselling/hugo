@@ -1,7 +1,7 @@
 ---
 date: 2017-04-12T11:14:48-04:00
 description: "Master Jacques Coppenole"
-featured_image: ""
+featured_image: "https://www.parkgrovecounselling.co.uk/img/katie-right.jpg"
 tags: ["scene"]
 title: "About Katie"
 ---

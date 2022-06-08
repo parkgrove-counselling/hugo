@@ -6,6 +6,6 @@ tags: []
 title: "What I offer"
 ---
 
-In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.
+As a person-centred therapist, I offer a safe and confidential space where you can talk about the issues that are affecting you. With empathy and without judgement, I will help you explore your ways of thinking and being, and support you to find ways to live your life in a way that feels right for you. Rather than giving you answers or advice, I will help you shine a light on repeating patterns of behaviour or thinking that may be holding you back, helping you to find your own direction and a greater sense of inner peace. Normally we would meet on a weekly or fortnightly basis. The normal duration of a session is 50 minutes.
 
 <!--more-->

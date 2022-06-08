@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Welcome"
-featured_image: "https://cdn.pixabay.com/photo/2016/03/01/08/06/harmony-1229886_960_720.jpg"
+featured_image: "images/stones-hz.jpg"
 tags: []
 title: "Welcome"
 disable_share: false
