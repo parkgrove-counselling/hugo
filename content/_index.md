@@ -36,9 +36,9 @@ I offer most of my sessions online at present but understand that online therapy
 You can find further details about the Wellbeing Rooms, Bearsden on their website: [The Wellbeing Rooms (Scotland) LLP](https://www.thewellbeingrooms.org.uk/).
 
 # Fees & Privacy
-Face-to-face session - from £60 (50 mins).
+Face-to-face session - £60 (50 mins).
 
-Online video session via Zoom - from £50 (50 mins).
+Online video session via Zoom - £50 (50 mins).
 
 Please note the difference in fee is due to the cost of the room hire.
 
