@@ -15,38 +15,43 @@ As a person-centred therapist, I offer a safe and confidential space where you c
 
 I am a registered Member of the British Association for Counselling and Psychotherapy (BACP) and bound by their Ethical Framework for Good Practice. This can be found online at https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions.
 
-I can help with a wide range of issues including self-harm, abuse, anxiety, bereavement, depression, loss, trauma, health related issues, cultural issues, identity issues, self esteem, sexual identity, sexuality, spirituality.
+I can help with a wide range of issues including self-harm, abuse, anxiety, bereavement, depression, loss, trauma, health related issues, cultural issues, identity issues, self-esteem, sexual identity, sexuality, spirituality.
 
 ## Qualifications:
+- Certificate in Online and Telephone Counselling, 2022
 - Post Graduate Diploma in Psychological Wellbeing, Counselling and Psychotherapy, 2018
 - Certificate in Counselling Skills, 2015
 - Bachelor of Education (Hons), 1994
 
-{{< figure class="qualification-icon" height="66" width="147" src="images/BACP-Logo.png" link="https://www.bacp.co.uk/profile/70a6189d-5390-e711-80e8-3863bb349ac0/Therapist" alt="Katie's British Association for Counselling and Psychotherapy page" >}}
+{{< figure class="qualification-icon" height="66" width="66" src="images/online-counsellor-150x150.png" alt="Logo for Online & Telephone Counselling - Certified Counsellor" >}}
 
-{{< figure class="qualification-icon" height="66" width="205" src="images/psychologytoday.png" link="https://www.psychologytoday.com/gb/counselling/katie-thompson-glasgow-sct/490057" alt="Katie's Psychology Today page" >}}
+{{< figure class="qualification-icon" height="66" width="147" src="images/BACP-Logo.png" link="https://www.bacp.co.uk/profile/70a6189d-5390-e711-80e8-3863bb349ac0/Therapist" alt="Katie's British Association for Counselling and Psychotherapy page" >}}
 
 &nbsp;
 
-# Fees & Privacy
+# Practice Description
 
-Face-to-face session - from £45 (50 mins).
-Online video session - from £40 (50 mins).
+I offer most of my sessions online at present but understand that online therapy is not for everyone.  There are also some issues that are more appropriately addressed in face-to-face sessions.   I have availability for face-to-face sessions on Tuesday afternoons/early evenings at The Wellbeing Rooms, 5A Kirk Road, Bearsden, G61 3RG.  Please contact me, by email or phone, to discuss availability for both online and face-to-face sessions.
+
+You can find further details about the Wellbeing Rooms, Bearsden on their website: [The Wellbeing Rooms (Scotland) LLP](https://www.thewellbeingrooms.org.uk/).
+
+# Fees & Privacy
+Face-to-face session - from £60 (50 mins).
+
+Online video session via Zoom - from £50 (50 mins).
+
+Please note the difference in fee is due to the cost of the room hire.
 
 Concession rates are available.
 
-For face-to-face sessions, payments are usually paid in cash and taken at the end of each session. Payments can also be made via bank transfer prior to sessions. Receipts are available upon request.
+For face-to-face sessions, payments can be paid in cash and taken at the end of each session. Payments can also be made via bank transfer prior to sessions. Receipts are available upon request.
 For video sessions payments should be made in advance by bank transfer.
 
-I am happy to offer an initial 30 minute free session to establish if we feel we can work well together.
+I am happy to offer an initial 30-minute free session to establish if we feel we can work well together.
 
 I take confidentiality and privacy very seriously. I collect, store and process personal data in line with GDPR and am registered with the Information Commissioner’s Office.
 
 # Contact
-
-My practice is based in the Kelvingrove area of Glasgow and can be easily reached by public transport or car. There is usually metered parking available outside the building.
-
-Please note that during the COVID-19 outbreak I am not able to offer face-to-face sessions but am continuing to offer online video sessions via Zoom.
 
 I can be contacted by email or telephone. If I am not available, please leave a short message and I will get back to you as soon as possible.
 
