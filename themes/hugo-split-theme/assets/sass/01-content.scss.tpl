@@ -157,9 +157,9 @@ body.page-template-page-fullsingle-split {
   h1 {
     font-weight: 400;
     text-transform: uppercase;
-    font-size: 16px;
-    line-height: 16px;
-    margin-bottom: 40px;
+    font-size: 32px;
+    line-height: 32px;
+    margin-bottom: 20px;
     letter-spacing: 0.4px;
     color: $color-maverick;
   }
