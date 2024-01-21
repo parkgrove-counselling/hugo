@@ -15,4 +15,7 @@ To build the site run the command
 ```bash
 hugo
 ```
-which will create the content in the directory called `public`. 
+which will create the content in the directory called `public`.
+
+To update the website copy the contents of the public directory to the repository 
+[https://github.com/parkgrove-counselling/parkgrove-counselling.github.io](https://github.com/parkgrove-counselling/parkgrove-counselling.github.io)
