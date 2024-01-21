@@ -31,9 +31,11 @@ I can help with a wide range of issues including self-harm, abuse, anxiety, bere
 
 # Practice Description
 
-I offer most of my sessions online at present but understand that online therapy is not for everyone.  There are also some issues that are more appropriately addressed in face-to-face sessions.   I have availability for face-to-face sessions on Tuesday afternoons/early evenings at The Wellbeing Rooms, 5A Kirk Road, Bearsden, G61 3RG.  Please contact me, by email or phone, to discuss availability for both online and face-to-face sessions.
+I offer online and face to face sessions. I use Zoom for online sessions. Face to face sessions take place at my practice at 1 Hillfoot Court, Bearsden, G61 2QR.
 
-You can find further details about the Wellbeing Rooms, Bearsden on their website: [The Wellbeing Rooms (Scotland) LLP](https://www.thewellbeingrooms.org.uk/).
+There is ample on street parking near the practice. It can also be easily reached by train and bus.
+
+Please contact me to discuss availability. I can be contacted by [email or telephone](https://www.parkgrovecounselling.co.uk/#contact). If I am not available, please leave a short message and I will get back to you as soon as possible.
 
 # Fees & Privacy
 Face-to-face session - £60 (50 mins).

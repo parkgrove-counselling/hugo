@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://eclectic-capybara-5e75c2.netlify.app"
+baseURL = "https://www.parkgrovecounselling.co.uk"
 languageCode = "en-US"
 title = "Parkgrove Counselling"
 theme = "hugo-split-theme"
