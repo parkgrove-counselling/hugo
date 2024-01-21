@@ -13,7 +13,7 @@
 $color-background : #061C30;
 $color-text       : #fdfdfd;
 $color-link       : #fdfdfd;
-$color-link-hover : #47bec7;
+$color-link-hover : #fdfdfd;
 $color-maverick   : #CCCCCC;
 $color-tagline    : #CCCCCC;
 
