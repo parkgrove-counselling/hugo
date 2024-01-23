@@ -33,6 +33,8 @@ I can help with a wide range of issues including self-harm, abuse, anxiety, bere
 
 I offer online and face to face sessions. I use Zoom for online sessions. Face to face sessions take place at my practice at 1 Hillfoot Court, Bearsden, G61 2QR.
 
+{{< carousel >}}
+
 There is ample on street parking near the practice. It can also be easily reached by train and bus.
 
 Please contact me to discuss availability. I can be contacted by [email or telephone](https://www.parkgrovecounselling.co.uk/#contact). If I am not available, please leave a short message and I will get back to you as soon as possible.

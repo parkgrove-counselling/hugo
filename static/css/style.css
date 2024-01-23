@@ -1,1 +1,15 @@
 # Custom CSS
+
+# TODO make sure that the original theme's styles are not overridden
+div {
+    margin: 0px;
+}
+
+div#default-carousel {
+    margin-bottom: 20px;
+}
+
+#default-carousel img{
+    margin: 0px;
+    padding: 0px;
+}

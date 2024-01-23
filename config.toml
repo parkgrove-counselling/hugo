@@ -26,6 +26,10 @@ copyright = "&copy;2022 Katie Thompson"
   # Favicon
   favicon = "favicon.ico"
 
+  # CSS
+  [params.custom.css]
+    enable = true
+
   # Section - Visual
   [params.visual]
 

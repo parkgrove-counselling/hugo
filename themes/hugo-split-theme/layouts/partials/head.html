@@ -23,6 +23,7 @@
 {{ with .Site.Params.favicon }}<link rel="icon" href="{{ . | absURL }}" />{{ end }}
 
 <!-- Styles -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
 {{ $contentCss := resources.GetMatch "sass/01-content.scss.tpl" | resources.ExecuteAsTemplate "sass/01-content.scss" "nothing" | resources.ToCSS }}
 {{ $css := resources.GetMatch "sass/split.scss.tpl" | resources.ExecuteAsTemplate "sass/split.scss" $contentCss | resources.ToCSS}}
 <link rel="stylesheet" href="{{$css.Permalink}}" type="text/css" media="screen" />
