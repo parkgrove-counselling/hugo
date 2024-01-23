@@ -27,8 +27,6 @@ I can help with a wide range of issues including self-harm, abuse, anxiety, bere
 
 {{< figure class="qualification-icon" height="66" width="147" src="images/BACP-Logo.png" link="https://www.bacp.co.uk/profile/70a6189d-5390-e711-80e8-3863bb349ac0/Therapist" alt="Katie's British Association for Counselling and Psychotherapy page" >}}
 
-&nbsp;
-
 # Practice Description
 
 I offer online and face to face sessions. I use Zoom for online sessions. Face to face sessions take place at my practice at 1 Hillfoot Court, Bearsden, G61 2QR.
