@@ -5,6 +5,10 @@ div {
     margin: 0px;
 }
 
+* {
+    font-size: 1em;
+}
+
 div#default-carousel {
     margin-bottom: 20px;
 }
