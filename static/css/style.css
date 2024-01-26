@@ -13,6 +13,25 @@ div#default-carousel {
     margin-bottom: 20px;
 }
 
+div#carousel-container {
+    height: 384px;
+}
+@media screen and (max-width: 1024px) {
+    div#carousel-container {
+        height: 224px;
+    }
+}
+@media screen and (max-width: 800px) {
+    div#carousel-container {
+        height: 384px;
+    }
+}
+@media screen and (max-width: 525px) {
+    div#carousel-container {
+        height: 224px;
+    }
+}
+
 #default-carousel img{
     margin: 0px;
     padding: 0px;
@@ -20,4 +39,7 @@ div#default-carousel {
 
 * {
     box-sizing: content-box;
+}
+
+img, video {
 }

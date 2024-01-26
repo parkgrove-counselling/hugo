@@ -1,25 +1,66 @@
-<div id="default-carousel" class="relative w-full" data-carousel="static">
+
+{{ $imageSofa := resources.Get "images/practice/hillfoot-sofa.jpg" }}
+{{ $imageSofa640 := $imageSofa.Fill "640x480" }}
+{{ $imageSofa470 := $imageSofa.Fill "470x352" }}
+
+{{ $imageBlinds := resources.Get "images/practice/hillfoot-blinds.jpg" }}
+{{ $imageBlinds640 := $imageBlinds.Fill "640x480" }}
+{{ $imageBlinds470 := $imageBlinds.Fill "470x352" }}
+
+{{ $imageClock := resources.Get "images/practice/hillfoot-clock.jpg" }}
+{{ $imageClock640 := $imageClock.Fill "640x480" }}
+{{ $imageClock470 := $imageClock.Fill "470x352" }}
+
+{{ $imageChair := resources.Get "images/practice/hillfoot-single-chair.jpg" }}
+{{ $imageChair640 := $imageChair.Fill "640x480" }}
+{{ $imageChair470 := $imageChair.Fill "470x352" }}
+
+{{ $imageWindow := resources.Get "images/practice/hillfoot-window.jpg" }}
+{{ $imageWindow640 := $imageWindow.Fill "640x480" }}
+{{ $imageWindow470 := $imageWindow.Fill "470x352" }}
+
+<div id="default-carousel" class="relative w-full h-full" data-carousel="static">
     <!-- Carousel wrapper -->
-    <div class="relative h-56 overflow-hidden rounded-lg">
+    <div id="carousel-container" class="relative overflow-hidden rounded-lg">
         <!-- Item 1 -->
-        <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/images/practice/hillfoot-sofa.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" loading="lazy" alt="...">
+        <div class="h-full hidden duration-700 ease-in-out" data-carousel-item>
+            <picture>
+                <source media="(max-width: 469px)" srcset="{{ $imageSofa470.RelPermalink }}" />
+                <source media="(min-width: 470px)" srcset="{{ $imageSofa640.RelPermalink }}" />
+                <img src="{{ $imageSofa640.RelPermalink }}" alt="Sofa with lamp" />
+            </picture>
         </div>
         <!-- Item 2 -->
-        <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/images/practice/hillfoot-blinds.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" loading="lazy" alt="...">
+        <div class="h-full hidden duration-700 ease-in-out" data-carousel-item>
+            <picture>
+                <source media="(max-width: 469px)" srcset="{{ $imageBlinds470.RelPermalink }}" />
+                <source media="(min-width: 470px)" srcset="{{ $imageBlinds640.RelPermalink }}" />
+                <img src="{{ $imageBlinds640.RelPermalink }}" alt="Centre of room with blinds" />
+            </picture>
         </div>
         <!-- Item 3 -->
-        <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/images/practice/hillfoot-clock.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" loading="lazy" alt="...">
+        <div class="h-full hidden duration-700 ease-in-out" data-carousel-item>
+            <picture>
+                <source media="(max-width: 469px)" srcset="{{ $imageClock470.RelPermalink }}" />
+                <source media="(min-width: 470px)" srcset="{{ $imageClock640.RelPermalink }}" />
+                <img src="{{ $imageClock640.RelPermalink }}" alt="Sofa with clock" />
+            </picture>
         </div>
         <!-- Item 4 -->
-        <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/images/practice/hillfoot-window.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" loading="lazy" alt="...">
+        <div class="h-full hidden duration-700 ease-in-out" data-carousel-item>
+            <picture>
+                <source media="(max-width: 469px)" srcset="{{ $imageChair470.RelPermalink }}" />
+                <source media="(min-width: 470px)" srcset="{{ $imageChair640.RelPermalink }}" />
+                <img src="{{ $imageChair640.RelPermalink }}" alt="Single chair" />
+            </picture>
         </div>
         <!-- Item 5 -->
-        <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <img src="/images/practice/hillfoot-single-chair.jpg" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" loading="lazy" alt="...">
+        <div class="h-full hidden duration-700 ease-in-out" data-carousel-item>
+            <picture>
+                <source media="(max-width: 469px)" srcset="{{ $imageWindow470.RelPermalink }}" />
+                <source media="(min-width: 470px)" srcset="{{ $imageWindow640.RelPermalink }}" />
+                <img src="{{ $imageWindow640.RelPermalink }}" alt="Centre of room with window" />
+            </picture>
         </div>
     </div>
     <!-- Slider indicators -->
